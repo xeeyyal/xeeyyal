@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fhand-written%3Fl%3Dhtml&psig=AOvVaw1wR8_WAaj-l-X1xIDBuzTa&ust=1702727868227000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC184uykYMDFQAAAAAdAAAAABAJ)
+[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fgeekculture%2Fhow-to-become-a-backend-developer-in-2021-9fd7a6c48186&psig=AOvVaw0-yXUMn8Tdh3gG1ltGIiuy&ust=1702728078301000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDEve2ykYMDFQAAAAAdAAAAABAI
 <h1 align="center">Hi 👋, I'm Khayal</h1>
 <h3 align="center">Back end developer from Azerbaijan</h3>
 
