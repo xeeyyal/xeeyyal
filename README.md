@@ -1,4 +1,4 @@
-[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fgeekculture%2Fhow-to-become-a-backend-developer-in-2021-9fd7a6c48186&psig=AOvVaw0-yXUMn8Tdh3gG1ltGIiuy&ust=1702728078301000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDEve2ykYMDFQAAAAAdAAAAABAI
+[![MasterHead]https://miro.medium.com/v2/resize:fit:1400/format:webp/1*G48L33n3M7FXze_kturcyQ.jpeg
 <h1 align="center">Hi 👋, I'm Khayal</h1>
 <h3 align="center">Back end developer from Azerbaijan</h3>
 
